@@ -23,7 +23,16 @@ In this page we introduce a ***differential*** based method for vector and matri
 - The first half of the alphabet <img src="/tex/5a24655a97800650f252524ec4d77b21.svg?invert_in_darkmode&sanitize=true" align=middle width=79.47848699999999pt height=24.65753399999998pt/> denote constants, and the second half <img src="/tex/068180f9556a78f704df7ad6781b990b.svg?invert_in_darkmode&sanitize=true" align=middle width=80.60117505pt height=24.65753399999998pt/> denote variables.
 - <img src="/tex/22acdfc775a9c0010ae19703fdeedeb7.svg?invert_in_darkmode&sanitize=true" align=middle width=24.56618669999999pt height=27.91243950000002pt/> denotes matrix transpose, <img src="/tex/ea1ba186dcad14b51b2f2ed2ff31806d.svg?invert_in_darkmode&sanitize=true" align=middle width=39.90867704999999pt height=24.65753399999998pt/> is the trace, and  <img src="/tex/9ca9af65e7723587892c4820de37815f.svg?invert_in_darkmode&sanitize=true" align=middle width=23.42461439999999pt height=24.65753399999998pt/> is the determinant.
 - <img src="/tex/2cd721f73978bd9ec4aabc24e65b08fd.svg?invert_in_darkmode&sanitize=true" align=middle width=12.785434199999989pt height=19.1781018pt/> is the Kronecker product and <img src="/tex/c0463eeb4772bfde779c20d52901d01b.svg?invert_in_darkmode&sanitize=true" align=middle width=8.219209349999991pt height=14.611911599999981pt/> is the Hadamard product.
-- Here we use ***numerator layout***, while the online tool [Matrix Calculus](http://www.matrixcalculus.org/) seems to use ***mixed layout***. Please refer to [Wiki - Matrix Calculus - Layout Conventions](https://en.wikipedia.org/wiki/Matrix_calculus#Layout_conventions) for the layout definitions, and keep in mind that different layouts lead to different results.
+- Here we use ***numerator layout***, while the online tool [Matrix Calculus](http://www.matrixcalculus.org/) seems to use ***mixed layout***. Please refer to [Wiki - Matrix Calculus - Layout Conventions](https://en.wikipedia.org/wiki/Matrix_calculus#Layout_conventions) for the detailed layout definitions, and keep in mind that different layouts lead to different results. Below is the numerator layout,
+
+<p align="center"><img src="/tex/1b248f70d5300d3e718064ac71bd7c2e.svg?invert_in_darkmode&sanitize=true" align=middle width=184.37670405pt height=39.452455349999994pt/></p>
+
+<p align="center"><img src="/tex/5f20c4aa8b6cce14bd2fccf73f369229.svg?invert_in_darkmode&sanitize=true" align=middle width=101.1645492pt height=94.143423pt/></p>
+
+<p align="center"><img src="/tex/47bd9b08a8f8ab9758b687d2f3b063cd.svg?invert_in_darkmode&sanitize=true" align=middle width=230.90713965pt height=98.63111444999998pt/></p>
+
+<p align="center"><img src="/tex/43a557c3b375b8ca5dfc60c68f3266f8.svg?invert_in_darkmode&sanitize=true" align=middle width=241.44147225pt height=103.37093415pt/></p>
+
 
 ## 1. Matrix Calculus via Differentials
 
